@@ -1,0 +1,11 @@
+https://realpython.com/qt-designer-python/#using-qt-designers-new-form-dialog
+
+
+Color Spaces conversion:
+https://www.vocal.com/video/rgb-and-hsvhsihsl-color-space-conversion/
+https://www.rapidtables.com/convert/color/rgb-to-hsv.html
+https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/
+
+
+histogram equilisation:
+http://www.sci.utah.edu/~acoste/uou/Image/project1/Arthur_COSTE_Project_1_report.html#eqhistfunction
